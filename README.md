@@ -3,7 +3,7 @@
 A modern React application for searching and browsing anime using the Jikan API.
 
 ## Live Demo
-🔗 [View Live Demo](http://sebastian-anime-search-app.vercel.app)
+🔗 [View Live Demo](https://sebastian-anime-search.netlify.app)
 
 ## Features
 - Real-time anime search with 250ms debouncing
